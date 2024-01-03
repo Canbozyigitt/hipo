@@ -7,7 +7,7 @@ public class Siralama {
         System.out.print("Birinci sayıyı girin: ");
         int sayi1 = scanner.nextInt();
 
-        System.out.print("İkinci sayıyı girin: ");
+        System.out.print("İkinci sayıyı giriniz: ");
         int sayi2 = scanner.nextInt();
 
         System.out.print("Üçüncü sayıyı girin: ");

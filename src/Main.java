@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("İlk dik kenarın uzunluğunu girin: ");
+        System.out.print("İlk dik kenarın uzunluğunu giriniz: ");
         double kenar1 = scanner.nextDouble();
 
         System.out.print("İkinci dik kenarın uzunluğunu girin: ");

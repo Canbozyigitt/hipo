@@ -10,7 +10,7 @@ public class Siralama {
         System.out.print("İkinci sayıyı giriniz: ");
         int sayi2 = scanner.nextInt();
 
-        System.out.print("Üçüncü sayıyı girin: ");
+        System.out.print("Üçüncü sayıyı giriniz: ");
         int sayi3 = scanner.nextInt();
 
         // Küçükten büyüğe sıralama

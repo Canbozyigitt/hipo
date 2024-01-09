@@ -30,7 +30,7 @@ public class Siralama {
             sayi3 = gecici;
         }
 
-        System.out.println("Küçükten büyüğe sıralama: " + sayi1 + ", " + sayi2 + ", " + sayi3);
+        System.out.println("Küçükten Büyüğe sıralama: " + sayi1 + ", " + sayi2 + ", " + sayi3);
 
         scanner.close();
     }

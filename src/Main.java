@@ -7,7 +7,7 @@ public class Main {
         System.out.print("İlk dik kenarın uzunluğunu giriniz: ");
         double kenar1 = scanner.nextDouble();
 
-        System.out.print("İkinci dik kenarın uzunluğunu girinizz: ");
+        System.out.print("İkinci dik kenarın uzunluğunu giriniz: ");
         double kenar2 = scanner.nextDouble();
 
         // Hipotenüs hesaplama formülü: c^2 = a^2 + b^2
